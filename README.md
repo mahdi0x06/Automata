@@ -49,7 +49,6 @@ The repository is organized cleanly by evaluation types and assignment series:
  ┃ ┗ 📂 final/
  ┗ 📂 slides/          # Official course lecture slides and reference materials
 ```
-*(Note: You can adjust folder names to match your exact local structure if needed.)*
 
 ---
 
